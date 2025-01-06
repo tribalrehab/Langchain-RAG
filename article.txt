@@ -1,0 +1,16 @@
+Intel unveils Arrow Lake AI chips for gaming laptops at CES 2025
+The Core Ultra 200H and 200HX are meant for powerful AI PCs.
+Devindra Hardawar
+Senior Editor
+Mon, Jan 6, 2025, 9:00 AM EST·1 min read
+Intel
+
+Intel is revving up its AI chip lineup at CES 2025. Today, the company unveiled the Core Ultra 200H chips for "performance thin and light" notebooks, alongside the Core Ultra 200HX chips for mobile gamers who demand powerful discrete GPUs. There aren't any big surprises with these chips, but if you were eyeing the Core Ultra 200V AI chips, but wanted something with a bit more horsepower, the 200H and 200HX are exactly what you're looking for.
+Intel Core Ultra 200H family
+Intel
+
+The Core Ultra 200H family tops out with the Core Ultra 9 285H processor, which offers 16 cores (six performance, eight efficient and two low-power) and a top speed of 5.4GHz. It also sports 8 Intel Arc GPU cores, which is enough to play some smaller titles. The Core Ultra 200HX family adds more cores to make them better suited to games and high-intensity workloads. The high-end Core Ultra 9 285HX has 24 cores (eight performance and 16 efficient) and a maximum speed of 5.5GHz. While it offers only 4 Intel GPU cores, it's not meant much to game much on its own. Instead, it'll be paired up with discrete GPUs from NVIDIA or AMD in gaming laptops.
+Intel Core Ultra 200HX family
+Intel
+
+Intel didn't have many other details to share on these chips, other than the fact that we can expect to see systems featuring them sometime in the first quarter. That's also when desktops powered by the Core Ultra 200S chips start shipping. But hey, it's CES, and AMD almost certainly has its own chip refresh in tow. Intel had to announce something, otherwise all we'd be talking about is how much trouble the company is in following the ouster of former CEO Pat Gelsinger.
