@@ -1,0 +1,5 @@
+langchain==0.1.2
+langchain-community
+gpt4all[cuda]==2.0.0rc2
+chromadb
+sentence-transformers
